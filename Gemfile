@@ -5,7 +5,7 @@ ruby '2.4.0'
 gem 'rails', '~> 5.0.6'
 gem 'puma', '~> 3.0'
 
-gem 'pg', '~> 0.21.0'
+gem 'pg'
 gem 'active_model_serializers'
 
 group :development, :test do
